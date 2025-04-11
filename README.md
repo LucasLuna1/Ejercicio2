@@ -1,1 +1,3 @@
-# Ejercicio2
+- `app.js`: Capa de presentación – gestiona las rutas y peticiones del usuario.
+- `logic.js`: Capa de negocio – contiene la lógica de agregar y listar productos.
+- `data.js`: Capa de datos – maneja el almacenamiento en memoria
